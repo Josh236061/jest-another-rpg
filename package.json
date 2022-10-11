@@ -4,7 +4,7 @@
   "description": "Rice Bootcamp Module Assignment 10: Jest Another RPG",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Josh236061/jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/Josh236061/jest-another-rpg#readme"
+  "homepage": "https://github.com/Josh236061/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
