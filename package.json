@@ -2,7 +2,7 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "Rice Bootcamp Module Assignment 10: Jest Another RPG",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
