@@ -23,6 +23,6 @@
     "lib": "lib"
   },
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.0.0"
   }
 }
